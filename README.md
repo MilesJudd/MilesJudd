@@ -25,12 +25,9 @@ I am a **Doctor of Philosophy (DPhil)** candidate in **Engineering Science** at 
 
 ## 📚 Publications
 
-### **Journal Articles**
-- **Judd, M. R. W., Sangirardi, M., & Acikgoz, S. (2024).** A Practical Method for Robust Elastic Characterisation of Mortar in Flat Jack Tests. *Available at SSRN*. [http://dx.doi.org/10.2139/ssrn.4990690](http://dx.doi.org/10.2139/ssrn.4990690)
-
-### **Conference Papers**
 - **Judd, M. R. W., Sangirardi, M., & Acikgoz, S. (2025).** The influence of Digital Image Correlation parameters on the accuracy of elastic property identification of brick and mortar from compression stack tests. *18th International Brick and Block Masonry Conference (IB2MaC 2024)*. *Lecture Notes in Civil Engineering, vol 614*. Springer, Cham. [https://doi.org/10.1007/978-3-031-73310-9_80](https://doi.org/10.1007/978-3-031-73310-9_80)
 - **Sangirardi, M., Judd, M. R. W., & Acikgoz, S. (2025).** Identification of Softening Constitutive Properties of Brittle Materials Using the Virtual Fields Method. *18th International Brick and Block Masonry Conference (IB2MaC 2024)*. *Lecture Notes in Civil Engineering, vol 613, pp. 341–350*. Springer, Cham. [https://doi.org/10.1007/978-3-031-73314-7_25](https://doi.org/10.1007/978-3-031-73314-7_25)
+- **Judd, M. R. W., Sangirardi, M., & Acikgoz, S. (2024).** A Practical Method for Robust Elastic Characterisation of Mortar in Flat Jack Tests. *Available at SSRN*. [http://dx.doi.org/10.2139/ssrn.4990690](http://dx.doi.org/10.2139/ssrn.4990690)
 - **Judd, M. R. W., Sangirardi, M., & Acikgoz, S. (2024).** Virtual fields characterisation of elasticity in mortars. *Proceedings of the SUBLime Conference 2024 – Towards the Next Generation of Sustainable Masonry Systems: Mortars, Renders, Plasters and Other Challenges, pp. 99–100*.
 - **Judd, M., Squires, D., Akcicek, K., Sangirardi, M., & Acikgoz, S. (2024).** Does Lack of CO2 Control in Environmental Chambers Influence the Strength and Stiffness of Hydraulic Lime Mortars? *Proceedings of the SUBLime Conference 2024 – Towards the Next Generation of Sustainable Masonry Systems: Mortars, Renders, Plasters and Other Challenges*. *MATEC Web Conf., vol 403, Article Number 02002*. [https://doi.org/10.1051/matecconf/202440302002](https://doi.org/10.1051/matecconf/202440302002)
 - **Judd, M. R. W., Sangirardi, M., & Acikgoz, S. (2023).** A Modified Virtual Fields Approach to Identify the Mechanical Properties of Mortar in Existing Masonry Structures Without Loading Information. *Structural Analysis of Historical Constructions (SAHC 2023)*. *RILEM Bookseries, vol 47*. Springer, Cham. [https://doi.org/10.1007/978-3-031-39603-8_34](https://doi.org/10.1007/978-3-031-39603-8_34)
