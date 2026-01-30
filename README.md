@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Research banner" width="100%">
 </p>
 
-<h1 align="center">Michael R. W. Judd</h1>
+<h1 align="center">Miles R. W. Judd</h1>
 
 <p align="center">
   <strong>DPhil Candidate · Engineering Science · University of Oxford</strong><br>
@@ -15,28 +15,7 @@
 
 I am a **Doctor of Philosophy (DPhil)** candidate in **Engineering Science** at the **University of Oxford**, specialising in **masonry in-situ testing and material identification (MINT)**.
 
-My research focuses on the development of **robust experimental–computational algorithms** for identifying material properties using **vision-based strain data** and the **Virtual Fields Method (VFM)**. I am particularly interested in problems where **loading conditions are uncertain or unavailable**, such as in existing and historical masonry structures.
-
----
-
-## 🔬 Research Focus
-
-- Masonry in-situ testing (MINT)
-- Vision-based strain measurement (DIC)
-- Virtual Fields Method (VFM)
-- Elastic and softening material identification
-- Non-destructive testing of existing structures
-- Experimental–computational coupling
-
----
-
-## 🧠 Research in Practice
-
-My work aims to bridge the gap between **laboratory-scale testing** and **real-world structural assessment**, enabling:
-
-- Material characterisation without known loading conditions  
-- Robust identification under noisy or incomplete experimental data  
-- Improved assessment of historical and sustainable masonry systems  
+My research focuses on the development of **robust experimental–computational algorithms** for identifying material properties using **vision-based strain data** and the **Virtual Fields Method (VFM)**. I am particularly interested in using data to solve real-world problems.
 
 ---
 
