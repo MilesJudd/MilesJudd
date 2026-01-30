@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Research banner" width="100%">
+  <img src="banner.png" alt="Research banner" width="100%">
 </p>
 
 <h1 align="center">Miles R. W. Judd</h1>
