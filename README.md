@@ -3,7 +3,7 @@
 
 I am a **Doctor of Philosophy (DPhil)** candidate in **Engineering Science** at the **University of Oxford**, specialising in **masonry in-situ testing and material identification (MINT)**. My research focuses on developing algorithms for material property analysis using vision-based strain data and the Virtual Fields Method (VFM). I am passionate about leveraging technical skills to solve complex engineering problems.
 
-**Technical Skills**: MATLAB, Python, CAD, FEM (DIANA FEA), DIC 
+**Technical Skills**: MATLAB, Python (numpy, pandas, scikit-learn), CAD, FEA, DIC, SQL 
 
 ---
 
