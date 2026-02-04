@@ -104,10 +104,4 @@ My research focuses on the development of **robust experimental–computational 
 
 ## 🤝 Open to Collaboration
 
-I am interested in collaborations related to:
-- Experimental mechanics and DIC
-- Computational identification methods
-- Masonry and heritage structures
-- Sustainable construction materials
-
-Feel free to reach out or explore my repositories below.
+I am interested in collaborations - feel free to reach out or explore my repositories below.
