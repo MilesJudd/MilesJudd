@@ -5,32 +5,95 @@
 <h1 align="center">Miles R. W. Judd</h1>
 
 <p align="center">
-  <strong>DPhil Candidate · Engineering Science · University of Oxford</strong><br>
-  Computational Mechanics · Masonry Testing · Vision-Based Material Identification
+  <strong>Machine Learning Engineer · Oxford DPhil (Engineering Science)</strong><br>
+  Scientific Machine Learning · Engineering Simulation · Computer Vision
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Doctor of Philosophy (DPhil)** candidate in **Engineering Science** at the **University of Oxford**, specialising in **masonry in-situ testing and material identification (MINT)**.
+I am a Machine Learning Engineer with a background in Engineering Science from the University of Oxford. My work sits at the intersection of scientific machine learning, computer vision, and engineering simulation.
 
-My research focuses on the development of **robust experimental–computational algorithms** for identifying material properties using **vision-based strain data** and the **Virtual Fields Method (VFM)**. I am particularly interested in using data to solve real-world problems.
+I have experience developing simulation-driven ML pipelines, physics-informed models, and robust reconstruction systems for inverse problems. My work combines finite-element modelling, synthetic data generation, computer vision, and machine learning to solve challenging real-world engineering problems.
+
+Most recently, I developed scalable simulation pipelines for generating training data for physics-informed neural networks (PINNs), designed domain-randomisation strategies to improve model generalisation, and built validation and failure-detection frameworks for robust deployment.
+
+My interests include scientific machine learning, surrogate modelling, inverse problems, scientific computing, robust ML systems, and AI-assisted engineering workflows.
+
+---
+
+## 🔬 Research & Engineering Interests
+
+- Scientific Machine Learning
+- Physics-Informed Neural Networks (PINNs)
+- Engineering Simulation & Finite Element Analysis
+- Inverse Problems & Computational Imaging
+- Surrogate Modelling
+- Robust ML & Failure Detection
+- Computer Vision
+- Scientific Computing
+- AI for Engineering Workflows
+- LLMs and Retrieval Systems for Technical Knowledge
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming & Data Analysis**
-- MATLAB
-- Python (NumPy, Pandas, scikit-learn)
-- SQL
+### Machine Learning & Scientific AI
 
-**Experimental & Computational Methods**
-- Digital Image Correlation (DIC)
+- PyTorch
+- scikit-learn
+- Physics-Informed Neural Networks (PINNs)
+- Data Augmentation & Domain Randomisation
+- Model Validation & Benchmarking
+- Failure Detection & Robustness Evaluation
+- Synthetic Data Generation
+
+### Simulation & Engineering
+
+- ANSYS
+- Abaqus
+- DIANA FEA
 - Finite Element Analysis (FEA)
+- Digital Image Correlation (DIC)
 - Virtual Fields Method (VFM)
 - CAD
+
+### Scientific Computing
+
+- Inverse Problems
+- Numerical Methods
+- Computational Imaging
+- Engineering Data Analysis
+- Simulation-Driven Machine Learning
+
+### Programming
+
+- Python (NumPy, Pandas, scikit-learn)
+- SQL
+- MATLAB
+- Git
+
+---
+
+## 🚀 Selected Projects
+
+### Simulation-Driven Machine Learning
+
+Development of simulation-based workflows for generating synthetic datasets used to train and evaluate machine learning models for engineering applications.
+
+### Physics-Informed Reconstruction
+
+Machine learning and optimisation approaches for solving inverse problems using imaging data, finite-element models, and physics-based constraints.
+
+### Robust ML Systems
+
+Validation, uncertainty estimation, and failure-detection frameworks designed to identify unreliable predictions and improve deployment robustness.
+
+### Computer Vision for Engineering
+
+Vision-based pipelines for deformation measurement, material characterisation, and structural assessment using high-resolution imaging data.
 
 ---
 
