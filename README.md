@@ -27,6 +27,7 @@ It automatically:
 **Why it exists:** simulation models often contain valuable engineering knowledge, but understanding an existing model can require manually reading thousands of lines of solver input. SimContext helps engineers and AI systems understand simulation assets faster by converting raw FEM models into structured context.
 
 🔗 Hugging Face Space: https://huggingface.co/spaces/Milesju/SimContext
+
 🔗 Repository: https://github.com/MilesJudd/SimContext
 
 ---
