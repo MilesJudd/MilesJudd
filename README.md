@@ -6,20 +6,47 @@
 
 <p align="center">
   <strong>Machine Learning Engineer · Oxford DPhil (Engineering Science)</strong><br>
-  Scientific Machine Learning · Engineering Simulation · Computer Vision
+  Scientific Machine Learning · Engineering Simulation · AI for Engineering
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### SimContext — AI-Ready Engineering Context from Simulation Models
+
+**SimContext** is a Hugging Face Space that turns ANSYS and Abaqus simulation input files into structured engineering knowledge and LLM-ready context.
+
+It automatically:
+- parses FEM input decks
+- extracts engineering metadata and model structure
+- identifies modelling risks and validation concerns
+- generates a human-readable FEM review
+- produces compact context for LLMs, agents, and engineering RAG workflows
+
+**Why it exists:** simulation models often contain valuable engineering knowledge, but understanding an existing model can require manually reading thousands of lines of solver input. SimContext helps engineers and AI systems understand simulation assets faster by converting raw FEM models into structured context.
+
+🔗 Hugging Face Space: <your-hf-space-link>  
+🔗 Repository: <your-repo-link>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Machine Learning Engineer with a background in Engineering Science from the University of Oxford. My work sits at the intersection of scientific machine learning, computer vision, and engineering simulation.
+I am a Machine Learning Engineer and Oxford DPhil candidate in Engineering Science working at the intersection of scientific machine learning, numerical modelling, and AI for engineering.
 
-I have experience developing simulation-driven ML pipelines, physics-informed models, and robust reconstruction systems for inverse problems. My work combines finite-element modelling, synthetic data generation, computer vision, and machine learning to solve challenging real-world engineering problems.
+My work focuses on building AI systems that interact with physical models, simulation workflows, and experimental data. I have experience developing simulation-driven ML pipelines, physics-informed models, inverse-problem solvers, and robust validation frameworks for engineering applications.
 
-Most recently, I developed scalable simulation pipelines for generating training data for physics-informed neural networks (PINNs), designed domain-randomisation strategies to improve model generalisation, and built validation and failure-detection frameworks for robust deployment.
+My background spans a broad range of numerical modelling domains:
 
-My interests include scientific machine learning, surrogate modelling, inverse problems, scientific computing, robust ML systems, and AI-assisted engineering workflows.
+- **Materials Engineering** — constitutive modelling, material characterisation, Digital Image Correlation (DIC), Virtual Fields Method (VFM)
+- **Structural / Civil Engineering** — masonry structures, finite element analysis, structural assessment, parameter identification
+- **Dynamics / Modal Analysis** — vibration measurement, operational modal analysis, dynamic system identification
+- **Electrical / Semiconductor Systems** — simulation-driven ML, PINNs, inverse modelling, magnetic-field-based reconstruction
+
+I have worked extensively with finite element methods and simulation tools including **ANSYS**, **DIANA FEA**, and related engineering modelling workflows across experimental mechanics, structural engineering, dynamics, and semiconductor applications.
+
+My interests include scientific machine learning, surrogate modelling, inverse problems, simulation automation, engineering agents, and AI-assisted engineering workflows.
 
 ---
 
@@ -28,6 +55,7 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 - Scientific Machine Learning
 - Physics-Informed Neural Networks (PINNs)
 - Engineering Simulation & Finite Element Analysis
+- Numerical Modelling
 - Inverse Problems & Computational Imaging
 - Surrogate Modelling
 - Robust ML & Failure Detection
@@ -41,7 +69,6 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 ## 🛠 Technical Skills
 
 ### Machine Learning & Scientific AI
-
 - PyTorch
 - scikit-learn
 - Physics-Informed Neural Networks (PINNs)
@@ -51,7 +78,6 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 - Synthetic Data Generation
 
 ### Simulation & Engineering
-
 - ANSYS
 - Abaqus
 - DIANA FEA
@@ -59,9 +85,9 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 - Digital Image Correlation (DIC)
 - Virtual Fields Method (VFM)
 - CAD
+- Modal Analysis
 
 ### Scientific Computing
-
 - Inverse Problems
 - Numerical Methods
 - Computational Imaging
@@ -69,7 +95,6 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 - Simulation-Driven Machine Learning
 
 ### Programming
-
 - Python (NumPy, Pandas, scikit-learn)
 - SQL
 - MATLAB
@@ -80,19 +105,15 @@ My interests include scientific machine learning, surrogate modelling, inverse p
 ## 🚀 Selected Projects
 
 ### Simulation-Driven Machine Learning
-
 Development of simulation-based workflows for generating synthetic datasets used to train and evaluate machine learning models for engineering applications.
 
 ### Physics-Informed Reconstruction
-
 Machine learning and optimisation approaches for solving inverse problems using imaging data, finite-element models, and physics-based constraints.
 
 ### Robust ML Systems
-
 Validation, uncertainty estimation, and failure-detection frameworks designed to identify unreliable predictions and improve deployment robustness.
 
 ### Computer Vision for Engineering
-
 Vision-based pipelines for deformation measurement, material characterisation, and structural assessment using high-resolution imaging data.
 
 ---
